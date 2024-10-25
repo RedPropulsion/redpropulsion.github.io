@@ -1,0 +1,7 @@
+baseURL: https://docs.redpropulsion.it/
+languageCode: it-it
+params:
+  contact:
+    email: info@redpropulsion.it
+  subtitle: Il team di razzimodellismo dell'università di firenze
+title: Documentazione di Red Propulsion
